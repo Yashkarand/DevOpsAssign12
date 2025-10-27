@@ -131,9 +131,6 @@ chmod +x scripts/bootstrap.sh
 ./scripts/bootstrap.sh
 ```
 
-### Access Points:
-- **Application**: http://34.230.229.232:8000
-- **Jenkins**: http://44.193.223.96:8080
 
 ## Manual Deployment
 
